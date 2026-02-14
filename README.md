@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://prod.assets.earlygamecdn.com/images/Chisa.jpg?transform=Banner+Webp" alt="Bot Banner" width="1920"/>
+  <img src="https://prod.assets.earlygamecdn.com/images/Chisa.jpg?transform=Banner+Webp" alt="Bot Banner" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -20,17 +20,23 @@ Built with Python + PTB + MongoDB
   <a href="https://core.telegram.org/bots/api">
     <img src="https://img.shields.io/badge/Telegram-Bot%20API-blue?style=for-the-badge&logo=telegram"/>
   </a>
+  <a href="https://mongodb.com">
+    <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  </a>
   <a href="https://render.com">
     <img src="https://img.shields.io/badge/Deploy-Render-purple?style=for-the-badge&logo=render"/>
   </a>
   <a href="https://heroku.com">
     <img src="https://img.shields.io/badge/Deploy-Heroku-7056ff?style=for-the-badge&logo=heroku"/>
   </a>
+  <a href="https://docker.com">
+    <img src="https://img.shields.io/badge/Docker-Supported-blue?style=for-the-badge&logo=docker"/>
+  </a>
 </p>
 
 ---
 
-## ✨ About BotifyX Pro
+# ✨ About BotifyX Pro
 
 **BotifyX Pro Auto Approver** is a high-performance Telegram bot designed to:
 
@@ -43,15 +49,14 @@ Built with Python + PTB + MongoDB
 
 ---
 
-## 🌟 Premium Features
+# 🌟 Premium Features
 
 > Built with a professional modular structure.
 
 ✨ **Auto Approve Join Requests**  
 ✨ **Approval DM Notification with Photo + Caption**  
 ✨ **MongoDB User Database Storage**  
-✨ **Owner Broadcast System**  
-✨ **Auto Delete Broadcast Support**  
+✨ **Owner Broadcast System**   
 ✨ **Users Panel with Pagination (3×3 Buttons)**  
 ✨ **User Appraisal Panel with Profile Photo + DB Info**  
 ✨ **Inline Callback Navigation (Back / Close Buttons)**  
@@ -59,9 +64,9 @@ Built with Python + PTB + MongoDB
 
 ---
 
-## 📌 Commands & Usage
+# 📌 Commands & Usage
 
-### 👤 User Commands
+## 👤 User Commands
 
 | Command | Description |
 |--------|-------------|
@@ -69,7 +74,7 @@ Built with Python + PTB + MongoDB
 
 ---
 
-### 👑 Owner Commands
+## 👑 Owner Commands
 
 | Command | Description |
 |--------|-------------|
@@ -78,6 +83,54 @@ Built with Python + PTB + MongoDB
 
 ---
 
+# ⚙️ Environment Variables
+
+Create a `.env` file or add these in hosting panel:
+
+```env
+BOT_TOKEN=YOUR_BOT_TOKEN
+OWNER_ID=123456789
+DB_URL=mongodb+srv://....
+DB_NAME=BotifyX
+
+```
+---
+
+# 🚀 Deployment Methods
+
+BotifyX Pro supports multiple professional hosting options:
+
+---
+
+## 🌍 Deploy on Render
+
+### Steps:
+
+1. Fork this repository  
+2. Open **Render Dashboard**  
+3. Click **New Web Service**  
+4. Connect your GitHub repo  
+5. Add required **Environment Variables**  
+6. Render will automatically detect:
+
+✅ `render.yaml`  
+✅ `requirements.txt`  
+✅ Flask keep-alive server  
+
+---
+
+## ☁ Deploy on Heroku
+
+### Steps:
+
+```bash
+git clone https://github.com/yourrepo/BotifyX
+cd BotifyX
+heroku create botifyx-pro
+git push heroku main
+```
+
+---
 ## 💖 Support
 
 <div align="center">
@@ -97,31 +150,7 @@ If you found this project helpful, please consider giving it a ⭐!
 
 ## 👨‍💻 Developers
 
-<table>
-<tr>
-<td align="center">
-<a href="https://t.me/ITSANIME">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
-<sub><b>彡 ΔNI_OTΔKU 彡</b></sub>
-</a><br>
-<sub>Lead Developer</sub>
-</td>
-<td align="center">
-<a href="https://t.me/Zero_no_Kami">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
-<sub><b>ϓƲɴΘ</b></sub>
-</a><br>
-<sub>Core Developer</sub>
-</td>
-<td align="center">
-<a href="https://t.me/ITS_shun_x">
-<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
-<sub><b>ₛₕᵤₙ</b></sub>
-</a><br>
-<sub>Developer</sub>
-</td>
-</tr>
-</table>
+<table> <tr> <td align="center"> <a href="https://t.me/ITSANIME"> <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br> <sub><b>彡 ΔNI_OTΔKU 彡</b></sub> </a><br> <sub>Lead Developer</sub> </td> <td align="center"> <a href="https://t.me/Zero_no_Kami"> <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br> <sub><b>ϓƲɴΘ</b></sub> </a><br> <sub>Core Developer</sub> </td> <td align="center"> <a href="https://t.me/ITS_shun_x"> <img src="https://via.placeholder.com/100" width="100px;" alt=""/><br> <sub><b>ₛₕᵤₙ</b></sub> </a><br> <sub>Developer</sub> </td> </tr> </table>
 
 ---
 
@@ -145,9 +174,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **© 2026 Telegram Auto Approver Bot . All Rights Reserved.**
 
-[⬆ Back to Top](#-telegram-Auto-Approver-Bot)
+[⬆ Back to Top](#-telegram-AUTO-APPROVAL-V2)
 
 
 </div>
+
 
 
