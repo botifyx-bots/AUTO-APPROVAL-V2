@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: auto-approval-bot
+    env: python
+    plan: free
+
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+
+    autoDeploy: true
+
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+
+      - key: OWNER_ID
+        sync: false
+
+      - key: DB_URL
+        sync: false
+
+      - key: DB_NAME
+        sync: false
+
+      - key: BOT_USERNAME
+        sync: false
+
+      - key: START_PIC
+        sync: false  
+
+      - key: APPROVED_PIC
+        sync: false
+
+      - key: USERS_PIC
+        sync: false    
+
+      - key: START_STICKER
+        sync: false  
