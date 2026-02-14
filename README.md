@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6d1bbdf1f2c0f94a4d97d.jpg" width="700"/>
+  <img src="https://prod.assets.earlygamecdn.com/images/Chisa.jpg?transform=Banner+Webp" alt="Bot Banner" width="1920"/>
 </p>
 
 <h1 align="center">
@@ -91,3 +91,4 @@ Broadcast Completed
 ◇ Blocked Users: 15
 ◇ Deleted Accounts: 0
 ◇ Unsuccessful: 5
+
