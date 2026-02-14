@@ -83,7 +83,7 @@ Built with Python + PTB + MongoDB
 
 ## 📍 Broadcast Output Example
 
---- text
+`` text
 Broadcast Completed
 
 ◇ Total Users: 117
@@ -145,7 +145,7 @@ If you found this project helpful, please consider giving it a ⭐!
 
 - **Creator**: [𝗕𝗼𝘁𝗶𝗳𝘆𝗫_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹](https://t.me/BotifyX_Pro_Botz)
 - **Original Developer**: [彡 ΔNI_OTΔKU 彡](https://t.me/ITSANIMEN)
-- **Library**: [Pyrofork](https://github.com/Mayuri-Chan/pyrofork)
+- **Library**: [PTB](https://github.com/Mayuri-Chan/pyrofork)
 
 ---
 
@@ -159,9 +159,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Made with ❤️ by the 𝗕𝗼𝘁𝗶𝗳𝘆𝗫_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 Team
 
-**© 2026 Telegram File Sequence Bot. All Rights Reserved.**
+**© 2026 Telegram Auto Approver Bot . All Rights Reserved.**
 
-[⬆ Back to Top](#-telegram-file-sequence-bot)
+[⬆ Back to Top](#-telegram-Auto-Approver-Bot)
 
 
 </div>
+
