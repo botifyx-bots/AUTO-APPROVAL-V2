@@ -66,8 +66,6 @@ Built with Python + PTB + MongoDB
 | Command | Description |
 |--------|-------------|
 | `/start` | Starts the bot with premium UI |
-| `/help` | Shows bot help panel |
-| `/status` | Displays uptime + database stats |
 
 ---
 
@@ -77,20 +75,6 @@ Built with Python + PTB + MongoDB
 |--------|-------------|
 | `/users` | Opens User Database Panel with pagination |
 | `/broadcast` | Broadcast message to all users |
-| `/dbroadcast 30min\|1hr\|1d` | Broadcast with auto-delete timer |
-
----
-
-## 📍 Broadcast Output Example
-
-`` text
-Broadcast Completed
-
-◇ Total Users: 117
-◇ Successful: 97
-◇ Blocked Users: 15
-◇ Deleted Accounts: 0
-◇ Unsuccessful: 5
 
 ---
 
@@ -165,4 +149,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
 
