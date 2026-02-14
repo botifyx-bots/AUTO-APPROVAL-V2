@@ -83,7 +83,7 @@ Built with Python + PTB + MongoDB
 
 ## 📍 Broadcast Output Example
 
-```text
+--- text
 Broadcast Completed
 
 ◇ Total Users: 117
@@ -92,3 +92,76 @@ Broadcast Completed
 ◇ Deleted Accounts: 0
 ◇ Unsuccessful: 5
 
+---
+
+## 💖 Support
+
+<div align="center">
+
+### Join Our Community
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/BotifyX_Pro_Botz)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=telegram)](https://t.me/BotifyX_Support)
+
+### ⭐ Star This Repository
+
+If you found this project helpful, please consider giving it a ⭐!
+
+</div>
+
+---
+
+## 👨‍💻 Developers
+
+<table>
+<tr>
+<td align="center">
+<a href="https://t.me/ITSANIME">
+<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
+<sub><b>彡 ΔNI_OTΔKU 彡</b></sub>
+</a><br>
+<sub>Lead Developer</sub>
+</td>
+<td align="center">
+<a href="https://t.me/Zero_no_Kami">
+<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
+<sub><b>ϓƲɴΘ</b></sub>
+</a><br>
+<sub>Core Developer</sub>
+</td>
+<td align="center">
+<a href="https://t.me/ITS_shun_x">
+<img src="https://via.placeholder.com/100" width="100px;" alt=""/><br>
+<sub><b>ₛₕᵤₙ</b></sub>
+</a><br>
+<sub>Developer</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Credits
+
+- **Creator**: [𝗕𝗼𝘁𝗶𝗳𝘆𝗫_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹](https://t.me/BotifyX_Pro_Botz)
+- **Original Developer**: [彡 ΔNI_OTΔKU 彡](https://t.me/ITSANIMEN)
+- **Library**: [Pyrofork](https://github.com/Mayuri-Chan/pyrofork)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+### Made with ❤️ by the 𝗕𝗼𝘁𝗶𝗳𝘆𝗫_𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 Team
+
+**© 2026 Telegram File Sequence Bot. All Rights Reserved.**
+
+[⬆ Back to Top](#-telegram-file-sequence-bot)
+
+
+</div>
