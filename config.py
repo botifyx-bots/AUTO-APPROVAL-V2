@@ -7,13 +7,13 @@ import time
 # Core Bot Config
 # ──────────────────────────────
 BOT_UPTIME = time.time()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8599022127:AAHszpC9oRH0sIrtyT720R0uYLSxRmu45kM")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8599022127:")
 OWNER_ID = int(os.getenv("OWNER_ID", "7815384262"))
-BOT_USERNAME = os.getenv("BOT_USERNAME", "Waifu_approval_bot")
-DB_URL = os.getenv("DB_URL", "mongodb+srv://ANI_OTAKU:ANI_OTAKU@cluster0.t3frstc.mongodb.net/?appName=Cluster0")
-DB_NAME = os.getenv("DB_NAME", "Waifu_approval_bot")
-START_PIC = os.getenv("START_PIC", "https://i.ibb.co/TJrHrCm/download-49.jpg")
-APPROVED_PIC = os.getenv("APPROVED_PIC", "https://ibb.co/DHrb5QqW")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "")
+DB_URL = os.getenv("DB_URL", "")
+DB_NAME = os.getenv("DB_NAME", "")
+START_PIC = os.getenv("START_PIC", "")
+APPROVED_PIC = os.getenv("APPROVED_PIC", "")
 USERS_PIC = os.getenv("USERS_PIC", "")
 START_STICKER = os.getenv("START_STICKER", "CAACAgUAAxkBAAKiwGmP9N5enA5ZBmbI_EVik5qaS-Y0AAJSGwACFuwBVoVvP5pgWVF6HgQ")
 
@@ -69,5 +69,6 @@ STATUS_TEXT = (
 # ─────────────────────────────
 # Database Settings (Optional)
 # ─────────────────────────────
+
 
 
